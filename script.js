@@ -9,8 +9,8 @@ function getValue() {
   let value = document.getElementById("amount").value;
   rosieCut = value * rosiePercent;
   andrewCut = value * andrewPercent;
-  document.getElementById("andrew").innerHTML = "Andrew to pay £" + andrewCut.toFixed(2);
-  document.getElementById("rosie").innerHTML = "Rosie to pay £" + rosieCut.toFixed(2);
+  document.getElementById("andrew").innerHTML = "<p>Andrew to pay £" + andrewCut.toFixed(2) +"</p>";
+  document.getElementById("rosie").innerHTML = "<p>Rosie to pay £" + rosieCut.toFixed(2) + "</p>";
 }
 
 

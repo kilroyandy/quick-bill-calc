@@ -3,6 +3,10 @@ body {
   padding: 2rem;
 }
 
+p,
+input {
+  font-size: 25px;
+}
 
 
 #currency {
@@ -11,6 +15,6 @@ body {
 
 
 .results {
-  padding-top: 2rem;
-  font-weight: bold;
+  padding-top: 1rem;
+
 }
