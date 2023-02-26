@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 2rem;
+}
+
+
+
+#currency {
+  display: inline;
+}
+
+
+.results {
+  padding-top: 2rem;
+  font-weight: bold;
+}
