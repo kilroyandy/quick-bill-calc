@@ -8,6 +8,9 @@ input {
   font-size: 25px;
 }
 
+#amount {
+  width: 200px;
+}
 
 #currency {
   display: inline;
